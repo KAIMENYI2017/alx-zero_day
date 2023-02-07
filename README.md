@@ -1,1 +1,1 @@
-my other readme file
+Git is powerful
